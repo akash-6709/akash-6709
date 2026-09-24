@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 **B.Tech in Data Science** @ CMREC (2024–2027) | CGPA: 8.2  <br>- 📜 Diploma in Civil Engineering (2021–2023) | CGPA: 8.0  <br>- 💻 I love solving problems, building **scalable web apps**  <br>- 🔭 I’m currently working on **full‑stack projects and ai**  <br>- 🤝 I’m looking to collaborate on **open‑source web apps**  <br>-  <br>- 🌱   <br>- 💬 Ask me about **Python, sql, frontend dev, **  <br>- 🎉 Fun fact: I’ve participated in a **National Level Hackathon (Top 20 Finalist)** and speak 5 languages!<br><br>
+- 🎓 **B.Tech in Data Science** @ CMREC (2024–2027) | CGPA: 8.2  <br>- 📜 Diploma in Civil Engineering (2021–2023) | CGPA: 8.0  <br>- 💻 I love solving problems, building **scalable web apps**  <br>- 🔭 I’m currently working on **full‑stack projects and ai**  <br>- 🤝 I’m looking to collaborate on **open‑source web apps**  <br>- 💬 Ask me about **Python, sql, frontend dev, **  <br>- 🎉 Fun fact: I’ve participated in a **National Level Hackathon (Top 20 Finalist)** and speak 5 languages!<br><br>
 
 
 ## 🌐 Socials:
